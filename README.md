@@ -1,30 +1,30 @@
 # 💼 My Portfolio
 
-Welcome to my portfolio! I'm **[Your Name]**, a passionate developer and aspiring AI enthusiast. Here's a snapshot of my journey, skills, and work.
+Welcome to my portfolio! I'm **Santhosh Kumar Sara**, a passionate developer and aspiring AI enthusiast. Here's a snapshot of my journey, skills, and work,driven by a deep interest in building intelligent systems that can learn, adapt, and create value. Whether it's predicting house prices 🏠, analyzing resumes 📄, or detecting diseases 🧬 – I love turning ideas into working prototypes.
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm a final-year B.Tech student with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I enjoy solving real-world problems using data and building impactful projects.
+I'm a final-year B.Tech student with a strong interest in **Artificial Intelligence**, **Machine Learning**, and **Data Science**. I enjoy solving real-world problems using data and building impactful projects,Here’s a quick tour of who I am, what I’ve built, and what I’m passionate about. Thanks for stopping by – feel free to explore and connect!
 
 ---
 
 ## 🛠️ Skills
 
-- **Languages:** Python, Java, HTML, CSS, JavaScript, SQL
+- **Languages:** C,C++,Python, Java, HTML, CSS, SQL,Git
 - **Frameworks/Libraries:** Scikit-learn, Pandas, NumPy, Matplotlib, Seaborn, TensorFlow, Keras
-- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, MySQL
+- **Tools:** Git, GitHub, VS Code, Jupyter Notebook, MySQL,Google Colab
 - **Other:** Data Visualization, Machine Learning, Deep Learning, Web Development
 
 ---
 
 ## 🎓 Education
 
-**[Your College Name]**  
-B.Tech in [Your Branch]  
-*Year: YYYY - YYYY*  
-CGPA: X.XX / 10
+**CMR ENGINEERING COLLEGE**  
+B.Tech in CSE(AI&ML)  
+*Year: 2022 - 2026*  
+CGPA: 9.24 / 10
 
 ---
 
@@ -61,9 +61,9 @@ CGPA: X.XX / 10
 
 ## 📬 Contact
 
-- **Email:** your.email@example.com  
-- **LinkedIn:** [linkedin.com/in/yourusername](https://linkedin.com/in/yourusername)  
-- **GitHub:** [github.com/yourusername](https://github.com/yourusername)  
+- **Email:** santhoshkumarjaiswaal907@gmail.com 
+- **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/santhosh-kumar-sara)  
+- **GitHub:** [github.com/yourusername](https://github.com/SaraSanthoshKumar-28)  
 - **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
 
 ---
