@@ -62,7 +62,7 @@ CGPA: 9.24 / 10
 ## 📬 Contact
 
 - **Email:** santhoshkumarjaiswaal907@gmail.com 
-- **LinkedIn:** [linkedin.com/in/yourusername](www.linkedin.com/in/santhosh-kumar-sara)  
+- **LinkedIn:** [linkedin.com/in/yourusername](https://www.linkedin.com/in/santhosh-kumar-sara/)  
 - **GitHub:** [github.com/yourusername](https://github.com/SaraSanthoshKumar-28)  
 - **Portfolio Website:** [yourportfolio.com](https://yourportfolio.com)
 
